@@ -48,7 +48,7 @@ Upload your dataset when prompted.
 Run all cells to execute the complete EDA process.
 
 🎥 Demo Video
-Watch the full walkthrough on YouTube
+https://youtu.be/lwMwIJBjRw0
 
 📈 Key Insights
 Premium brands have significantly higher price averages.
