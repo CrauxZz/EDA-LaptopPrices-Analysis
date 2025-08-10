@@ -67,3 +67,7 @@ Deploy interactive dashboard using Streamlit.
 
 License
 MIT License. Free for educational and professional use.
+
+##Thanks to freeCodeCamp.org for the "Learn Python for Data Science – Full Course for Beginners" and the dataset
+https://www.youtube.com/watch?v=CMEWVn1uZpQ
+
